@@ -1,0 +1,920 @@
+DİJİTAL DÖNÜŞÜMÜN İŞLETMELER ÜZERİNDEKİ ETKİSİ
+
+ÖZ
+Dijital dönüşüm (DD) üzerine son yıllarda yapılan araştırmalar akademisyenler tarafından büyük ilgi görmüştür.
+Hem işletmeler hem de akademi dijitalleşmenin iş dünyası üzerindeki önemli etkisi konusunda hemfikirdir. Dijital
+dönüşüm yenilikçiliği, rekabet gücünü ve verimliliği artırarak ekonomik büyüme fırsatları ile işletmeleri ve toplumu
+derinden etkilemektedir. Mevcut literatür dijital dönüşümün belirli yönlerine odaklanmış ancak sürecin doğası ve
+sonuçlarına ilişkin kapsamlı bir portre oluşturamamıştır. Buradan hareketle araştırmanın amacı dijital dönüşümün
+net tanımını belirlemek, aşamaları, faaliyetleri ve sonuçlarıyla yapılandırılmış bir çerçeve oluşturmaktır. Bu
+çalışmada işletmelere ve araştırmacılara değerli bilgiler sağlamak amacıyla çeşitli kaynaklardan elde edilen bulgular
+entegre edilerek dijital dönüşümün kapsamlı bir sistematik literatür analizi sunulmaktadır. Bulgular, dijital
+dönüşümün iyi bilinen bir fikir olmasına rağmen iş modellerinin organize dijital dönüşümüne yönelik bir yöntemin
+eksik olduğunu göstermektedir. İşletmelerin neden dijital olarak dönüşmeleri gerektiğine dair bir tartışma ile
+başlanan çalışmada dönüşümün işletmeler üzerindeki etkileri ve bu süreçte stratejinin önemi vurgulanmıştır.
+Anahtar Kelimeler: dijitalleşme, dijital dönüşüm, dijital organizasyon
+
+GİRİŞ
+Endüstriyel dünya artık dijital bir dünyaya dönüşmeye başlamış, COVID-19 pandemisi de bu
+dönüşümü hızlandırmıştır. Dijital dönüşüm dünyanın artan nüfusunun ihtiyaç ve beklentilerini
+karşılamak için teknolojik bir fırsat olmaktan ziyade gereklilik haline gelmiştir (Ismail vd. 2017).
+Dijital teknolojilerin benimsenmesi üretim, organizasyonel hiyerarşiler ve ortaklar, tedarikçiler
+ve müşteri ilişkileri başta olmak üzere modern işletmelerin neredeyse tüm alanlarını
+etkilemektedir (Plekhanov vd. 2022). Bu gelişmeler işletmelerin daha fazla esneklik ve verimlilik
+elde etmesine, üretim süreçlerini optimize etmesine, inovasyon ekosistemleri için değer
+önerileri oluşturmasına ve pazar ihtiyaçlarına zamanında yanıt vermesine olanak sağlamaktadır.
+Ayrıca dijital dönüşüm süreçleri, pazar rekabet gücünü korumak ve teknolojik yeniliğin ön
+saflarında yer almak için gerekmektedir (Feliciano-Cestero vd. 2023).
+Son on yılda iş altyapısı ürün, süreç ve hizmetler arasındaki artan bağlantılarla birlikte dijital
+hale gelmiştir. Bilgisayar teknolojisinin metalaşması ve internetin yaygınlaşmasıyla birlikte
+1990'larda bilişim teknolojileri (BT) destekli iş dönüşümü önem kazanmıştır. Farklı endüstri ve
+sektörleri kapsayan birçok işletmede dijital teknolojiler temel olarak iş stratejilerini, süreçlerini,
+yeteneklerini, ürün ve hizmetlerini dönüştürmüştür. Ayrıca bu teknolojiler işin zaman, mesafe
+ve işlev sınırlarının ötesinde yürütülmesini sağlayan modüler, dağıtılmış ve küresel iş süreçleri
+olarak geleneksel iş stratejisini de temelden yeniden şekillendirmiştir (Vial, 2019). BT
+sistemlerinin genişleyen kapsamı ve itici gücü ile dijital dönüşüm araştırmaları işletme, yönetim
+ve ekonomi gibi birçok disipline yayılmıştır. Bugün dijital dönüşüm BT’nin yanı sıra girişimcilik,
+stratejik yönetim, operasyon yönetimi, pazarlama ve organizasyon biliminin katkılarıyla
+disiplinler arası bir araştırma alanı haline gelmiştir. (Plekhanov vd. 2022).
+Literatürde daha önce yapılmış çalışmalarda dijital dönüşüm katkıları gözden geçirilmiş ve daha
+iyi anlaşılmasında önemli ilerlemeler kaydedilmiştir (Henriette vd., 2016; Reis vd., 2018;
+Verhoef vd. 2021; Zhu vd. 2021). Henriette vd. (2016) dijital dönüşümün tanımını ve boyutlarını
+açıklığa kavuşturmak için sistematik bir literatür taraması yapmış ve kavramın risklerini ve
+etkilerini daha iyi anlamak için keşifsel nitel bir çalışma gerçekleştirmiştir. Gebayew vd. (2018)
+literatürde dijital dönüşüm ile ilgili çalışmaları incelemiş ve kuruluşların hedeflerine ulaşmak
+için iş planlarını veya politikalarını yeni bir dijital iş modeline göre değiştirmeleri gerektiğini
+vurgulamıştır. Reis vd. (2018) 206 hakemli makalenin sistematik taramasını yaparak literatüre
+genel bir bakış sunmuştur. Vial, (2019) incelediği 282 makaleden dijital dönüşümün kavramsal
+tanımını geliştirmiş ve kavramın nasıl tanımlanması gerektiğine yönelik 7 maddelik bir yönerge
+önermiştir. Ziyadin vd. (2020) de yapmış olduğu detaylı literatür taramasında dönüşüm
+sürecinde bir yöntemin eksik olduğunu vurgulamıştır. Zhu vd. (2021) 2000-2020 yılları arasında
+dijital dönüşüm ile ilgili yapılan çalışmaları çeşitli bibliyometrik ve görsel analiz yöntemleri
+uygularak incelemiştir. Verhoef vd. (2021) mevcut literatürden faydalanarak dijital dönüşümün
+üç aşaması olan “sayısallaşma, dijitalleşme ve dijital dönüşüm” kavramlarını açıklamıştır. Benzer
+şekilde Sezen ve Şenaras (2022)’da dijitizasyon, dijitalizasyon ve dijital dönüşüm kavramlarının
+açıklanmasına yönelik literatür taraması yapmış ve kavramlar arası farkları ortaya koyarak,
+dönüşümün ekonomi ve toplum üzerindeki önemini vurgulamıştır.
+Dijital dönüşüm kavramı dijital teknolojilerin benimsenmesi ve dijital olmayan süreçlerin dijital
+olanlarla değiştirilmesini tanımlamak için yaygın olarak kullanılmış, bu da organizasyon çapında
+değişikliklere ve yeni iş modellerinin ortaya çıkmasına yol açmıştır. Başlangıçta dijital dönüşüm
+ağırlıklı olarak bilgi sistemleri literatürüne dayanarak tartışılmış ve organizasyonlardaki
+operasyonel süreçlerin optimizasyonu gibi teknolojik yönlerine odaklanılmıştır (Vial, 2019). Son
+yıllarda ise kavramın stratejik, yönetimsel ve organizasyonel etkilerini vurgulayan yönetim
+akademisyenleri (Hanelt vd. 2020) ve çok disiplinli araştırmacıları (örneğin, Verhoef vd, 2021;
+AlNuaimi, 2022) tarafından oldukça ilgi görmüştür. Dittes ve Smolnik (2019), işletmelerin dijital
+çalışma ortamına dönüşmesi ve çalışanların performanslarını artırmaları için sosyal medya
+platformlarından ne ölçüde yararlandıklarını araştırmıştır. Nasiri vd. (2020), tedarik zinciri
+firmalarının performansa ulaşmak için dijital dönüşüm yolculuklarını akıllı teknolojilerle
+geliştirdiğini, Blanka vd. (2022) ise dijital dönüşümde insan kaynaklarının rolü ve çalışan
+yetkinliğinin önemini vurgulamıştır. Dong, (2023) dijital dönüşüm yönetiminin en iyi
+uygulamaları ile alandaki araştırma bulgularını sentezleyen kapsamlı bir literatür taraması
+yapmıştır. Telli, E. (2022), işletmelerin dijital dönüşüm yolculuğunda liderliğin rolünü incelemiş
+ve bazı öneriler sunmuştur. Ayrıca COVID-19 salgınının tetiklediği uzaktan çalışma sistemi kamu
+kurumları ve KOBİ’lerin dönüşüm sürecini hızlandırmış ve etkileri bazı araştımacılar tarafından
+ilgi görmüştür. Luo vd. (2023) kurumsal dijital dönüşümü, Peng ve Tao (2022) ve Chouaibi vd.
+(2022) dönüşümün kurumsal performansı artırmadaki etkisini, Teng vd. (2022) ve RupeikaApoga vd. (2022) KOBİ'lerin dijital dönüşümünü etkileyen faktörlerin ve bunların performansla
+ilişkisinin anlaşılmasına katkıda bulunmuştur.
+Dijital teknolojilerdeki büyük ilerlemelere rağmen, bu teknolojilerin uygulanmasının
+karmaşıklığı ve sosyal yaşamın birçok yönüne olan etkileri henüz tam olarak anlaşılamamıştır.
+Farklı analiz seviyelerindeki bu tür karmaşıklığı daha iyi anlamak için bu makalenin amacı,
+akademisyenlere ve uygulayıcılara rehberlik edebilecek bir araştırma gündemi geliştirmek ve
+aşağıdaki soruların derinlemesine anlaşılmasını sağlamaktır.
+
+Dijital dönüşüm nedir?
+Dijital dönüşüm hakkında ne biliyoruz?
+Dijital dönüşümün işletmeler üzerindeki etkisi nedir?
+
+Bu soruların yanıtlarını bulmak, ortak bir akademik anlayışı mümkün kılacağı ve daha önce
+yapılmış çalışmaları geliştireceği için önemlidir. Yönetim literatüründe teoriye önemli katkılar
+sağlayabilmenin ve araştırma sorularını cevaplayabilmenin bir yolu da literatür taramasıdır
+(Baltacı, 2019). Buradan hareketle makalenin temel amacı, önceki bir çalışmadan son on yıla
+kadar dijital dönüşümle ilgili sistematik bir literatürün genel bir incelemesini yapmaktır.
+Çalışmanın kapsamı Google Scholar veri tabanı olarak belirlenmiştir. Veri tabanı içerisindeki
+gelişmiş tarama bölümüne "digital transformation" and "businesses" and "systematic literature
+review" and "digitalization" and "organization" and "digital business" anahtar kelimeler
+yazılarak arama yapılmıştır. Tarama 2013-2023 yılları arasında ingilizce kaynaklar olarak
+sınırlandırılmıştır.
+Araştırma sorularını cevaplayabilmek için makalede ilk olarak, dijital dönüşüme neden ihtiyaç
+olduğu açıklanmıştır. Dönüşümün tarihi süreci ile devam edilerek kronolojik bir sıralama
+yapılmıştır. Sonrasında literatürde bulunan çeşitli tanımlara dayanarak genel bir çerçeve ile
+kavram açıklanmaya çalışılmıştır. Son olarak işletmelerdeki dijital dönüşüm ele alınarak bir
+sentez ortaya konulmuştur. Araştırma yöntemi olarak ulusal ve uluslararı literatürde yer alan
+özellikle son on yıllık kaynaklar incelenmiştir. Çalışma literatüre iki katkı sunmuştur. İlk olarak
+dijital dönüşüme ilişkin mevcut bilgileri bütünleştiren bir inceleme oluşturulmuş, ikinci olarak
+da kavramın teorik temelleri genişletilerek gelecekteki araştırmalara ve uygulayıcılara bir
+rehber olmasının yolları belirlenmiştir.
+1.Yöntem
+Bu çalışmada araştırma yöntemi olarak sistematik literatür taraması kullanılmıştır. Sistematik
+bir inceleme, ilgili araştırmayı tanımlamak, eleştirel olarak değerlendirmek ve ayrıca söz konusu
+araştırmadan veri toplamak ve analiz etmek için bir araştırma yöntemi ve süreci olarak
+açıklanabilir. Sistematik bir derlemenin amacı, belirli bir araştırma sorusunu veya hipotezini
+yanıtlamak için yürütülen çalışmalardır (Synder, 2019).
+Çalışma kapsamında incelenecek bilimsel makalelere ulaşmak için Google Scholar veri tabanı
+kullanılmıştır. Kaynaklar hakemli dergiler, ingilizce dili ve 2013-2023 tarihleri arasında olmak
+kaydıyla sınırlandırılmıştır. Google Scholar veri tabanındaki arama "digital transformation" and
+"businesses" and "systematic literature review" and "digitalization" and "organization" and
+"digital business" anahtar kelimeler kullanılarak gerçekleştirilmiştir. Bu arama neticesinde
+anahtar kelimeleri içerien kitap, kitap bölümü ve makalelerden oluşan toplam 454 yayına
+ulaşılmıştır. Ulaşılan makalelerin özetleri okunduktan sonra tam metnine erişilemeyen
+makaleler çalışma dışı bırakılmıştır. Özetlerin okunmasının ardından araştırmanın amacına
+uygun olarak 65 makale tam metni incelenmek için seçilmiştir.
+2. Neden Dijital Dönüşüm?
+İletişim ve bilgi teknolojilerindeki gelişmeler tüm sektörlerin odağını dijitalleşmeye doğru
+çevirmiştir (Larjovuori vd. 2018). Bu gelişmeler bir çok organizasyonun süreç ve işleyişinde
+önemli değişikliklere yol açmıştır (Kraus vd. 2022). Bugün baktığımızda dijitalleşme yalnızca
+pazarlama alanının değil işletmelerin diğer bölümlerindeki dönüşümlerin de ana nedeni olarak
+görülmektedir (Boskovic vd. 2019). Son zamanlarda adlarını sıklıklı duyduğumuz nesnelerin
+interneti, sosyal medya, mobil bilgi işlem, büyük veri ve bulut bilişim gibi teknolojik trendler de
+iş modellerini, süreçleri, hizmetleri ve ürünleri önemli ölçüde etkilemiştir. Bu teknolojilerin çoğu
+bireysel olarak devrim niteliğinde değildir. Ancak bir araya geldiklerinde artan verimlilik, daha
+iyi ağ olanakları ve bunların yaygın kullanımı yoluyla işletmelerin yenilikçi güçleri gelişmektedir.
+Ayrıca sensörlerin ve aktüatörlerin uygulanmasıyla birlikte yeni nicelik ve niteliklerdeki
+verilerin işlenmesi de otomasyonda yeni fırsatlar yaratmaktadır (Urbach vd. 2017).
+Dijital teknolojilerin öncülük ettiği bu dönüşüm, şirketler için hayati bir stratejik önem
+taşımaktadır. İşletmeler bir yandan geleneksel sektörleri derinlemesine alt üst eden yeni yıkıcı
+aktörlerle uğraşırken, öte yandan pazar teklifleri hakkında bilgi sahibi olan ve rekabetçi oyunun
+kurallarını dayatarak daha zorlayan müşterilere hızlı ve kişiselleştirilmiş bir şekilde uyum
+sağlamaları gerekmektedir (Sayar, 2016). Dolayısıyla dijitalin etkisiyle işletmelerin kökten
+değiştiği bu ortamda dijital dönüşüm artık stratejik bir zorunluluk niteliğindedir (Henriette vd.
+2016). İşletmeler bir taraftan neden dijital olarak dönüştüğünü bağlamsallaştırmaya çalışırken
+bir taraftan da pek çok itici güç ortaya çıkmaktadır. Özellikle mevcut faaliyet alanları üzerindeki
+azalan satışlar ve mali baskı işletmelerin kendilerini dönüştürmelerindeki en önemli faktördür
+(İsmail vd. 2017).
+Dijital çağ perspektifinden bakıldığında dijital dönüşüm, dijital teknolojilerin yaygın doğası ve
+çoğalması nedeniyle dünyamızdaki temel değişimi vurgulamaktadır (Ismail vd. 2017). Önceki üç
+devrimi esas alan ancak yeni dijital teknolojileri de yoğun kullanan dördüncü sanayi devrimi ile
+yeniliklerin hem gelişimi hem de yayılması öncekinden çok daha hızlanmıştır (Schwab, 2016).
+Endüstri perspektifinde ise, dijital teknolojilerin yıkıcı doğasının endüstrilerin çalışma biçiminde
+nasıl devrim yarattığı ve aralarındaki geleneksel sınırların nasıl ortadan kalktığı vurgulanmıştır.
+Son yıllarda ise üretimde siber-fiziksel sistemlerin kullanılması yoluyla endüstrinin
+dijitalleşmesi “Endüstri 4.0”, “akıllı fabrikalar” ve “ileri üretim” kavramları ile daha fazla
+popülerlik kazanmıştır (Abiodun vd. 2022).
+Dijital dönüşüm dünya çapındaki işletmeler için ana konu haline gelmiştir. Dijital dünyaya uyum
+sağlayamayan işletmelerin kuşkusuz “dijital Darwinizm”in kurbanı olacağı, yerleşiklerin ortadan
+kalkabileceği ve yalnızca teknolojik trendlere en iyi uyum sağlayabilen işletmelerin rekabet
+ortamında varlıklarını sürdürebilecekleri tahmin edilmektedir (Schwartz, 2001). Dolayısıyla iş
+dünyası liderleri ve karar vericiler, kuruluşlarını dönüştürmek için en iyi stratejileri
+aramalıdırlar. Modern kuruluşlar günümüzde çoğunlukla dijital kanallar aracılığıyla müşterileri
+ve paydaşlarıyla iletişim kurarak, dijital ürün ve hizmetlerle pazarda farklı bir şekilde mücadele
+etmektedirler. Öte yandan geleneksel kuruluşlar ise tüketicilere ulaşmak için stratejilerini
+geliştirmeye odaklansalar da dijital hizmetleri tüm sektörlerde kullanmanın önemini hala
+görememektedirler (Boskovic vd. 2019).
+3. Dijital Dönüşümün Tarihi
+Dijitalleşme kavramını “0 ve 1 sembollerinin ikili sayı sistemine dayanarak işlenmesi” olarak
+ifade edilmektedir . 1679’da ilk defa Gottfried Wilhelm Leibniz tarafından ortaya atılmış bu ikili
+sistem, 1703’te yayımlanan Explanation of Binary Arithmetic adlı çalışmada daha ayrıntılı
+açıklanmıştır (Demirci, 2023). Dijitalleşme sürecinin lokomotifi olarak da “mikrocip, internet ve
+mobil iletişim” teknolojilerini sıralayabiliriz (Aksu, 2018).
+Dijital dönüşüm şu anda popüler bir tartışma konusu olmasına rağmen geçmişi bildiğimizden
+çok daha eskilere dayanmaktadır. Kökleri 1940'lara kadar uzanırken, önümüzdeki on yıllar
+boyunca küresel iş ortamını etkilemeye devam etmesi de muhtemel gözükmektedir (Menear,
+2020). Dijitalleşme terimi ilk kez 1959'da (Merriam-Webster.com) dile getirilmiş ve günlük
+uygulamaya girmiştir (Lozic, 2019). Dijital ürünlerin hizmetler ve ortamlara ilişkin fikirleri ise
+1990’ların sonu 2000’li yılların ortalarında tartışılmaya başlamıştır (Auriga, 2016). Örneğin
+perakende sektöründe (1990'larda ve 2000'lerde) satın almalar hâlâ büyük ölçüde gerçek
+mekânda faaliyet gösteren mağazalardan ve genellikle nakit parayla yapılıyor olsa da kitle
+iletişim araçlarıyla yapılan reklam kampanyaları müşterilere ulaşmak için önemli dijital kanallar
+olarak görülüyordu. 2000'den 2015 yılına kadar akıllı cihaz sayısının artması ve sosyal medya
+platformlarının fazlalaşması müşterilerin işletmelerle farklı şekillerde iletişim kurabilmelerinin
+yolunu açmış, müşteri geri dönüş süreleri azalmış ve çok kanallı kullanılabilirlik ile ilgili
+beklentiler de büyük ölçüde karşılanmıştır (Schallmo vd. 2017).
+Son zamanlarda teknoloji ve internette yaşanan hızlı yükselişin paranın dijitalleşmesi üzerine
+etkisi akademi ve iş dünyasının merak ve tartışma konusu olmuştur. Kredi kartlarınn
+beklenenden daha fazla gelişmesi ve yaygınlaşması özellikle e-ticaret alanında büyük kolaylık
+getirmiştir (Aksu, 2018). Ayrıca işletmeler dijital platformlarda bireysel müşterileriyle genellikle
+gerçek zamanlı olarak iletişim kurabileceklerinin farkına varmışlardır. Aynı zamanda web
+tabanlı satış noktaları ve e-ticarete PayPal gibi sürekli büyüyen dijital ödeme seçenekleri de
+katkı sağlamıştır (Üren, 2022). İlave olarak günümüzde işletmeler mobil cihazlardan üretilen
+büyük ölçekte kişiselleştirilmiş müşteri veri türlerinden faydalanıp değer yaratmaya
+odaklanarak, ürünlerini onların beklenti ve ihtiyaçlarını karşılayabilecek şekilde tasarlama
+fırsatı da bulmuşlardır (Gülşen ve Özdemir, 2019).
+Teknolojinin tarihi gelişimine baktığımızda son 50-60 yıl çok hareketli geçmiş ve her 10 yılda bu
+hareketlilik daha da hızlanmıştır. Dünya nüfusu artmış, ekonomi büyümüş, internet kullanıcı
+sayısı yükselmiş, teknolojiye erişim ucuzlamış ve yaygınlaşmıştır. Dijital dönüşümün tarihsel
+gelişim süreci Şekil 1’de detaylı olarak gösterilmiştir.
+4. Dijital Dönüşüm
+Dijital Dönüşüm toplumsal refahı yükselten, verimliliği artıran ve değer yaratma sürecini
+hızlandıran yıkıcı teknolojilerin benimsenmesiyle ilgilidir (Demirkan vd. 2016). Günümüzde
+dijital dönüşüm akademi ve iş dünyasında güncel ve moda bir kelimedir. Dördüncü sanayi
+devrimi döneminde iş dünyası, eğitim, bankacılık, hükümet ve imalat başta olmak üzere hemen
+hemen her sektör dijital olarak dönüşüm geçirmektedir. Dolayısıyla dijital dönüşümün unsurları,
+itici güçleri ve engelleri, dijital dönüşüm yoluyla değer yaratma ve diğer ilgili konular son 20-25
+yıldır akademik ortamda sıklıkla tartışılmaktadır (Verina ve Titko, 2019). Bir teknoloji fütüristi
+olan Nicholas Negroponte (1995) eski endüstriyel ekonominin yeni bir dijital ekonomi
+tarafından yok olacağını öngörmüştür (Legner vd. 2017). İlave olarak dijital dönüşümün yüksek
+yıllık büyümeye ve hızlı penetrasyona sahip olacağı da tahmin edilmektedir. Ancak yetersiz ve
+aşırı heterojen işletme yapıları veya kültürleri bu dönüşümün yayılmasını yavaşlatan
+engellerdir. Ayrıca dijital dönüşümün topluma nasıl fayda sağlayacağının bilinmemesi, beceri ve
+nitelikli iş gücü eksikliği, altyapının bulunmaması veya yetersiz olması, düzenlemelerin ve
+tüketicinin korunmasının eksik veya yetersiz olması ve özellikle finansmana zayıf erişim de
+işletmelerin karşılaştığı en önemli sorunlardır. Yaşanan bu sorunları çözmek adına bir çok
+hükümet, çok uluslu şirket ve sanayi toplulukları Tablo 1’de yer alan dijital dönüşüm hedeflerine
+ulaşmaya ilişkin kamu politikalarının uygulanmasını hızlandırmıştır (Ebert ve Duarte, 2018).
+Tablo 1. Dijital dönüşüm hedefleri
+Perspektif
+Sosyal
+Hedef
+İşbirlikçi ve inovatif bir kültürün toplumda ve sanayide gelişiminin teşvik edilmesi
+Kişilerin çalışma ortamında ve günlük hayatta dijital uygulamaları rahatlıkla
+kullanabilmelerini sağlamak için eğitim sisteminde değişikliklerin yapılması
+Kaliteli ve uygun fiyatlı dijital iletişim altyapılarının oluşmasının sağlanması
+Dijital verinin koruması, özerkliği, şeffaflığı ve güvenliğinin güçlendirilmesi
+Topluma sunulan dijital hizmetlerin erişilebilirliği ve kalitesinin iyileştirilmesi
+Ekonomik
+İnovatif iş modellerinin uygulanması
+Verimlilik, gelir oluşumu ve katma değerin artırılması
+Teknik standartların iyileştirilmesi
+Kaynak: Ebert ve Duarte (2018)’den uyarlanmıştır.
+
+Dijital dönüşüm, Endüstri 4.0 olarak da bilinen dördüncü sanayi devriminin içinde yer
+almaktadır (Weking vd. 2020). Endüstri 4.0 ile iş süreçlerinin dijitalleşmesi dijital stratejileri,
+mal ve hizmet üretimindeki ileri teknikleri ve çığır açıcı teknolojileri işin yönetimi ve yönetişimi
+ile ilişkilendirir ve dünya çapındaki endüstriler arasında iletişim ve iş birliğine olanak tanır.
+Dijital teknolojiler ve stratejiler, uluslararası sınırları hızla aşarak ülkenin ekonomik
+faaliyetlerini ve kurumsal çerçevesini önemli ölçüde etkileyerek yeni ürün ve hizmetlerin ortaya
+çıkmasına da imkan sağlar. Dahası zaman, hız, konum, giriş modu yöntemi, dış pazarların
+öğrenilmesi, yerel pazarın kaynaklarına ve yeteneklerine erişilebilirlik açısından da süreci
+oldukça etkileyebilirler (Feliciano-Cestero vd. 2023).
+Dijital dönüşüm adından da anlaşılacağı gibi öncelikle yeni teknolojilerin gelişmesinden
+kaynaklanan bir dönüşümdür. İşletmelerin dijital dönüşümü bağlamında bahsedilen ana
+teknolojiler; internet, analitik ve mobil” dir. Birbirini tamamlayan bu üç teknoloji aslında son
+yıllarda özellikle Bulut teknolojileri sayesinde gelişmiştir (Henriette vd. 2016). Dijital dönüşüm
+üç unsurla karakterize edilir: (1) işletme sınırlarının yeniden incelenmesi ve tanımlanması; (2)
+ürün ve hizmetlerin toplum girdisine açılması ve mülkiyet haklarının azaltılması; ve (3) örgütsel
+ve ürün kimliklerini yeniden şekillendirmesidir (AlNuaimi vd. 2022). Dijital dönüşümün temel
+amacı verimlilik ve yetkinlikle ilgili sorunları çözmektir. Hess, Benlian, Matt ve Wiesböck (2016),
+dönüşüm strateji hedeflerini geliştirmeyen ve uygulamayan bir işletmenin yeni dijital gerçekliğe
+ayak uydurması ve hayatta kalmasının mümkün olamayacağını belirtmiştir. (Kraus vd. 2022).
+Dijital dönüşüm Gartner’ın Bilişim Teknolojileri Sözlüğü'ne göre analogdan dijitale geçiş
+sürecidir (Larjovuori vd. 2018). Ayrıca görevleri (kısmen) otomatikleştirmenin bir yolu olarak
+bilgi teknolojilerinin (BT) dayattığı değişiklikleri de tanımlamaktadır (Hess vd. 2016). Dijital
+dönüşüm çok sayıda toplumsal alanda karşımıza çıkmaktadır. Özellikle günlük yaşamlarımız ve
+alışkanlıklarımız giderek daha fazla BT tarafından desteklenmektedir. İşletmeler açısından ise
+farklı pazarlarda işlem yapılmasını mümkün kıldığı için dijital dönüşümün ayrı bir önemi vardır
+(Kraus vd. 2022).
+Literatürde dijital dönüşüme ilişkin çoklu algılar ortaya çıkmıştır. Dijitalleşme fikri bireysel ve
+kurumsal bilişim teknolojilerinin harmanlanmasından doğarak sosyal, mobil, analitik, bulut
+bilişim ve Nesnelerin İnterneti (SMACIT) gibi yeni dijital teknolojilerin dönüştürücü etkisini
+kapsamaktadır (Sebastian vd. 2017). Ayrıca dijital iş süreçlerinin dijital teknolojilerle dijital
+ekonomiye entegrasyonu olarak da tanımlanmaktadır (Bondar vd. 2017). Benzer bir tanımda
+işletmelerin performansını ve erişimini artırabilmek için teknolojiden faydalanması olarak ifade
+edilmektedir (Westerman vd. 2014). Daha ayrıntılı bir tanımda ise bu teknolojilerin üç kuramsal
+boyutu etkilemesi olarak açıklanmaktadır. Bu boyutlar; harici olarak dijital müşteri deneyimi ile
+tüm yaşam döngüsünü değiştirmeye odaklanmak, dahili olarak iş süreçlerini, organizasyon
+yapılarını ve karar mekanizmalarını etkilemek ve bütünsel olarak tüm iş segmentleri ve
+fonksiyonlarının etkilendiği durumlarda yeni iş modellerinin yolunu açmaktadır. Genel olarak
+bilim adamları dijital dönüşümde üstün bir performansa ulaşmanın temelden bir değişimle
+bağlantılı olduğu ve işletmelerin harici, dahili ve bütünsel boyutları dikkate alması gerektiği
+konusunda hemfikirdir (Ziyadin vd. 2020). İşletmelerde organizasyonel yönü de ima eden bu
+boyutlar tüm yaşam döngüsünün değişmesi, liderlik, hiyerarşik yapılar ve iş hedeflerinin
+etkilenmesi ile yeni iş modelleri geliştirilmesinin de yolunu açacaktır (Hess vd. 2016).
+Dijital dönüşüm kavramı bir çok araştırmacı tarafından farklı şekillerde tanımlanmıştır. Ancak
+dijital dönüşüm terimi için şu anda yaygın olarak kabul edilen bir tanım yoktur. Araştırmamızı
+öncekilerden ayıran temel nokta veri toplamak için en güncel yayınların kullanılması ve ayrıca
+kavramın uygulama sürecinde yer alan iş dünyası temsilcilerinden alınmış olmasıdır. Literatürde
+çeşitli araştırmacıların yapmış olduğu tanımları incelediğimizde üç ortak nokatayı gözlemledik.
+Birincisi, incelenen çalışmalarda tanımlandığı şekliyle dijital dönüşüm öncelikle
+organizasyonlarla ilgili bir süreçtir. İkincisi, ilgili teknoloji türlerine ve gerçekleşen dönüşümün
+doğasına ilişkin tanımlar arasında önemli farklılıklar bulunmaktadır. Üçüncüsü, farklılıklara
+rağmen tanımlar arasında benzerlikler mevcuttur (örneğin “dijital teknolojiler” gibi ortak
+terimlerin kullanımı) (Vial, 2019). Kavramlar bilimsel açıklamalar için vazgeçilmez araçlardır ve
+en temel “Neden bahsediyoruz” sorusunu ele alan genel bir tasarımdır. İyi tasarlanmış
+kavramların anlaşılır, farklı ve sağlam gözlem kategorileri sağlayan netliğe ihtiyacı vardır (Okan
+ve Elmadag, 2018). Buradan hareketle kavramsal tanımların oluşturulmasına yönelik önerilere
+dayanarak mevcut tanımları analiz etmeye başladık ve özellikle Suddaby (2010) tarafından
+önerilen sekiz maddelik önergeye göre değerlendirdik.
+1. Tanımlar, ilkel terimler ve türetilmiş terimler kullanılarak resmi olarak tanımlanmalıdır.
+2. Her kavram benzersiz bir şekilde tanımlanmalıdır.
+3. Tanımlar yalnızca net ve açık terimler içermelidir.
+4. Tanımlar mümkün olduğunca az terim içermelidir.
+5. Tanımlar kendi alanıyla tutarlı olmalıdır.
+6. Tanımlar hiçbir terimi daha geniş hale getirmemelidir.
+7. Tanımlara yeni hipotezler getirilmemlidir.
+8. İçerik geçerliliği için istatistiksel test, terimler resmi olarak tanımlandıktan sonra yapılmalıdır.
+
+Tanım
+Chou “Dijital Dönüşüm, iş süreçlerini dijital teknolojiler ile dijital bir ekonomiye entegre eden
+organizasyonel dönüşümdür”.
+
+Westerman vd., (2011)
+
+"Dijital dönüşüm, kuruluşların verimliliğini ve erişimini iyileştirmek için kullandığı
+teknolojidir”.
+
+PwC (2013)
+
+“Dijital dönüşüm, toplum üzerinde önemli bir etkiye sahip olan internete dayalı yeni
+teknolojilerin kullanılması ile tüm iş dünyasının temel dönüşümüdür”.
+
+Mazzone (2014)
+
+"Dijital dönüşüm, bir işletmenin iş modeli ve yönteminin hem stratejik hem de taktiksel
+olarak tasarlanmış dijital evrimidir."
+
+BMWi (2015)
+
+“Dijitalleşme, ekonominin ve toplumun tüm sektörlerinin eksiksiz bir şekilde birbirine
+bağlanması, gerekli bilgilerin toplanması ve analiz edilerek eylemlere dönüştürülme
+
+282
+İstanbul Nişantaşı Üniversitesi Sosyal Bilimler Dergisi
+Year/Yıl 2024, Vol./Cilt 12 Issue/Sayı 1, 276-297.
+
+DİJİTAL DÖNÜŞÜM: TARİHÇESİ, TANIMI VE İŞLETMELER ÜZERİNDEKİ ETKİSİ
+SERAP TÜRKYILMAZ
+
+Yazar(lar)
+
+Tanım
+becerisidir. Değişim avantaj ve fırsatlar getirir ancak tamamen yeni zorluklar yaratır”.
+
+Bouée ve Schaible (2015)
+
+“Dijital dönüşüm, bütün sektörlerinin bir ağ oluşturarak bu yeni gerçekliğe uyum
+sağlamasıdır”.
+
+Hess vd. (2016)
+
+“Dijital dönüşüm (dijitalleşme olarak da bilinir) bir işletmenin ürün, süreç, iş modeli ve
+organizasyon yapısının dijital teknolojiler ile değişmesidir”.
+
+“Dijital dönüşüm, bir kuruluşta veya kuruluşun operasyon ortamında dijital
+Parviainen vd. (2017), s.
+teknolojilerin benimsenmesinden kaynaklanan çalışma biçimlerindeki, rollerdeki ve iş
+64
+tekliflerindeki değişiklikler olarak tanımlanır.
+Bondar, Hsu, Pfouga ve Dijital dönüşüm, tüm ekonomik sektörlerin tutarlı bir ağ oluşturması ve aktörlerin
+Stjepandić (2017), s. 33
+dijital ekonominin yeni koşullarına adaptasyonudur.
+Heavin
+ve
+(2018), s. 40
+
+Dijital dönüşümün zorlukları olsa da mevcut araştırmalar dijital fenomenin
+Power kuruluşların iş yapma şeklini yenilemek ve yeniden tanımlamak için bir fırsat olduğunu
+göstermektedir. Dijital dönüşümün iki ana yönü (1) teknoloji ve (2) müşteri veya
+kullanıcı açısından tanımlanmaktadır.
+
+OECD (2018)
+
+Dijital dönüşüm, sayısallaşma ve dijitalleşmenin ekonomik ve toplumsal etkilerini ifade
+eder.
+
+Deloitte (2018)
+
+Dijital dönüşüm tüm sektörlerin performansını geliştirmek için teknolojinin
+kullanılmasıdır. Dijital olarak dönüştürülmüş bir işletmede dijital teknolojiler gelişmiş
+süreçlere, yeteneklerin katılımına ve yeni iş modellerine olanak sağlar.
+
+Bloomberg (2018)
+
+Dijital dönüşüm kuruluşun genel olarak değişimle daha iyi başa çıkmasını gerektirir;
+kuruluş uçtan uca müşteri odaklı hale geldikçe esasen değişimi temel bir yetkinlik
+haline getirir.
+
+European
+(2019)
+
+Dijital dönüşüm ileri teknolojilerin birleşimi, fiziksel ve dijital sistemlerin
+entegrasyonu, yenilikçi iş modellerinin ve yeni süreçlerin hakimiyeti ve akıllı ürün ve
+hizmetlerin yaratılmasıyla karakterize edilir.
+
+Commission
+
+Lozic, (2019)
+
+Dijital dönüşüm, tamamen yeni bir iş modeli yaratma sürecidir ve daha da önemlisi,
+yeni stratejik yeni pazar edinme ve kar bölgesi elde etme modelidir.
+
+Nasiri vd. (2020)
+
+Dijital dönüşüm, dijital teknolojilerin getirdiği değişen pazar gereksinimlerini
+karşılamak için iş süreçlerini, kültürleri ve organizasyonel yönleri dönüştürmek için bir
+araçtır.
+
+Verhoef vd., (2021)
+
+Dijital dönüşüm değerlendirme, karar verme, yeni dijital iş modellerinin geliştirilmesi,
+işletmelerin değer yaratmasına yardımcı olmak, performansı ve etkiyi artırmak için
+toplanan verileri analiz etmek ve kullanılabilir bilgiler halinde derlemek için dijital
+teknolojilerin kullanılması sürecidir.
+
+Henderikx
+(2022)
+
+ve
+
+Stoffers, Dijital dönüşüm, organizasyonun her yönünü etkileyen teknoloji destekli yıkıcı bir
+değişim sürecidir.
+
+Brosnan vd., (2023)
+
+Dijital dönüşüm, bir kuruluşun iş modelinin, işletim modelinin ve değer zincirinin
+bütünsel yönlerinin teknoloji ve dijital kaynaklar aracılığıyla yenilenmesini düzenleyen
+bir mekanizmadır.
+
+Kaynak: Yazar tarafından oluşturulmuştur
+
+Tablo 2’de yer alan tanımlarda araştırmacılar dijital dönüşümün dört özelliğini vurgulamışlardır.
+1. Tema: hedef varlık yani dijital dönüşümden etkilenen analiz birimi.
+2. Kapsam: hedef varlığın özelliklerinde meydana gelen değişikliklerin kapsamı.
+3. Araçlar: hedef varlıkta değişimin uygulanmasında yer alan teknolojiler.
+4. Sonuç: dijital dönüşümün beklenen sonucu.
+Bu özellikleri kullanarak dijital dönüşüm kavramını "bilgi, iletişim ve ağ teknolojilerinin
+birleşimi yoluyla bir varlığın yapısal özelliklerinde önemli değişiklikleri tetikleyerek geliştirmeyi
+amaçlayan bir süreç" olarak tanımlayabiliriz. Dijital dönüşüm tanımlarının odak noktası yeni
+teknolojilerin benimsenmesi ve kullanılmasına göre değişiklik gösterecektir.
+
+5. Dijital Organizasyonlar
+Dijital dönüşüm başta ekonomiler olmak üzere toplumun tüm alanını etkilemektedir.
+Dijitalleşme yeni bir olgu olmasa da Üçüncü ve Dördüncü Sanayi Devrimleri ile ilgili tartışmalar
+göz önüne alındığında, iş dünyasında öngörülemeyen etkiler yaratan bir süreçtir. Dijital
+teknolojiler son derece rekabetçi iş ortamlarını, firmaların ve tüketicilerin etkileşim ve değer
+alışverişinde bulunma biçimlerini dönüştürmektedir (Rossi vd. 2020). İşletmeler artık mobil,
+sosyal ağlar, nesnelerin interneti, blockchain ve büyük veri gibi yeni dijital teknolojiler ile iş
+süreçlerini yeniden düzenleme imkânı bulmaktadır. Bu yeniliklerin çoğu temel iş
+operasyonlarında yapılan düzenlemelerdir. İşletmelerin bu karmaşık dönüşümleri
+gerçekleştirebilmesi için yeni yönetim modelleri tasarlayarak ürün, süreç ve organizasyon
+yapılarını da değiştirmeleri gerekmektedir (Ziyadin vd. 2020). Ayrıca hızlı bir iç karar alma
+sürecine sahip olmalı ve bu kararlar zamanında analiz edilen verilerle desteklemelidir. Aynı
+zaman da rekabet üstünlüğünü korumak için işletmelerin yalnızca en son dijital teknolojiyi en iyi
+şekilde kullanarak değil, dijital yenilikleri kalkınma stratejilerinin temel unsurları olarak entegre
+ederek dijitalleşmeyi tam olarak benimsemeleri de gerekmektedir (Lozic, 2019). Bu süreç
+işletmelerde bilişim teknolojileri departmanının bir rolü gibi görünse de araştırmacılar bunun
+daha çok stratejik ve organizasyonel bir değişim süreci olduğunu savunmaktadır (Boskovic vd.
+2019).
+İşletmeler yeni teknolojileri entegre etmede çok sayıda zorlukla karşı karşıya kalmıştır. Bu
+nedenle bilgi teknolojisi (BT) ve bilgi sistemlerinin (IS) önemi geniş çapta araştırılmıştır. Yeni
+teknolojilerin kullanımı senelerdir bir zorluk olarak görülse de, BT entegrasyonunun iş boyutları
+üzerindeki etkisi benzersizdir (Martínez-Caro vd. 2020). Dijitalleşme, tarihsel olarak IS
+araştırmalarında büyük ilgi görmüş ve yönetim araştırması gibi diğer disiplinler, teknolojik
+boyutu ve bunun iş üzerindeki etkisini vurgulayarak bu ilgiyi devam ettirmiştir (Blanka vd.
+2022).
+Literatüre baktığımızda araştırmacılar öncelikle dijital dönüşümün ne olduğu, süreci ve
+sonuçlarını incelemiş ve bir çerçeve sunmaya çalışmışlardır. Son zamanlarda dijital
+teknolojilerin hızlı gelişimi 2019 koronavirüs (COVID-19) salgınıyla birleştiğinde tüm işletmeleri
+ve toplumları etkilemiş ve olası sonuçları araştırmacılar tarafından merak edilmiştir. Zhai vd.
+(2022) dijital dönüşümün performans üzerindeki etkisini Çinli firmalardan oluşan bir örneklem
+kullanarak incelemiş ve olumlu etkisini tespit etmiştir. AlNuaimi vd. (2022) dönüşümcü
+liderliğin ve organizasyonel çevikliğin dijital dönüşüm üzerindeki etkisi ve dijital stratejinin
+aracı rolünü incelemiş, dönüşümcü liderlik ve organizsyonel çevikliğin dijital dönüşüm üzerinde
+olumlu etkisi, dijital stratejinin de her hangi bir ılımlı etkisi olmadığı sonucuna varmıştır.
+Chouabi vd. (2022) yine dijital dönüşümün organizasyonel performans üzerindeki etkisini
+Tunus’ta bulunan 270 işletme üzerinde analiz etmiş ve organizasyonel performansın dijital
+dönüşümle pozitif ilişkili olduğunu ve bunun sonucunda uygun risk yönetiminin uygulanmasının
+gerekliliğini ortaya koymuştur. Peng ve Tao, (2022) dijital dönüşümün kurumsal performansın
+artırılmasını kamu politakası ve inovasyon perspektifinden incelemiş, dijital dönüşümün
+işletmelerin performansını büyük ölçüde iyileştirdiğini ve kurumsal inovasyonun ivmesini
+teşvik edebileceğini vurgulamıştır. Zhang vd. (2022) KOBİ’ler nezdinde çalışmanın az olması
+sebebiyle bu boşluğu doldurmak adına Çin’de bulunan 180 KOBİ üzerinde dijital dönüşümün
+başarı faktörlerini araştırmış, teknolojik ve çevresel faktörlerin örgütsel yetenekler üzerinde
+olumlu bir etkiye sahip olduğunu öne sürmüştür. Teng vd. (2022) KOBİ'lerin üç temel kaynağı
+(dijital teknoloji, çalışanların dijital becerileri ve dijital dönüşüm stratejisi) ile dijital dönüşüm
+arasındaki ilişkiyi ve bu üç kaynak ile dijital dönüşümün finansal performans üzerindeki etkisini
+incelemiş, dijital dönüşüm stratejisini finansal performansı etkileyen temel faktör olarak
+tanımlamıştır. Iyanna vd. (2022) sağlık sektörünün dijital dönüşümünü incelemiş ve teknoloji
+odaklı yeniliklerin son kullanıcılar tarafından benimsenmesini ve kullanılmaya devam
+edilmesini engelleyen faktörleri belirlemiştir.
+Dijital dönüşüm bir bütün olarak toplum üzerinde etkileri olan internete dayalı yeni teknolojiler
+oluşturan kurumsal dünyadaki değişikliklerin itici gücüdür (Unruh ve Kiron, 2017). Aynı
+zamanda insanlar, işletmeler ve nesneler arasındaki engelleri ortadan kaldırarak her sektördeki
+işletmelere değişim fırsatı sunan önemli bir aktördür (Schwertner, 2017). Bununla birlikte
+dijital dönüşüm basit organizasyonel süreçlerin ve görevlerin değiştirilmesinin ötesine geçerek
+tüm işletmeyi ve iş yapma biçimlerini de etkileyen faktördür. Bilişim teknolojilerinin kullanımı
+mevcut iş süreçlerinde, rutinlerde ve yeteneklerde temel değişikliklere yol açarak işletmelerin
+yeni pazarlara girmesine veya mevcut pazarlardan çıkmasına imkân sağlamaktadır. Ayrıca dijital
+dönüşüm müşteriler, tedarikçiler ve rakiplerle zaman ve mekândan bağımsız etkileşim
+kurabilmek için dijital teknolojilerin kullanılmasıdır. Bu dijital teknolojiler bir organizasyonun
+mevcut temel yeteneklerini uygulaması veya yenilerini geliştirebilmesi için dönüşüm sağlayarak
+rekabet avantajı elde etmesine yardımcı olmaktadır (Verhoef vd. 2021). Matarazzo vd. (2021)
+dijital dönüşümü etkileyen faktörlerle ilgili olarak, algı ve öğrenme yeteneklerinin dijital
+dönüşümün ilk itici güçleri olduğunu ve bu dinamik yeteneklerin geliştirilmesinin işletmelerin
+dijital dönüşümün değerini en üst düzeye çıkarmasına yardımcı olacağını savunmaktadır. Dijital
+dönüşüm sürecinde işletmenin çok fazla teknolojiyi bir arada kullanması yeterli değildir. İşletme
+öncelikle hedeflerine yönelik net bir vizyona sahip olmalı ve sonrasında bu teknolojilerin sınırsız
+imkânlarıyla desteklenmelidir (Schwertner, 2017). Bazı araştırmacılar da dijital dönüşümün
+süreçlerde ve operasyonlarda kademeli iyileştirmeler yerine iş modellerinde temel değişiklikler
+gerektirdiğini iddia etmektedir. Bu yüzden birçok endüstri bilgisayar simülasyonlarındaki
+gelişmeler, azalan ürün yaratma maliyetleri ve daha kısa pazara sunma süresi gereksinimleri
+sebebiyle daha kısa inovasyon döngülerine doğru kaymaktadır (Rossi ve diğerleri, 2020). Teng
+vd. (2022) işletmelerin dijital dönüşümü gerçekleştirmek için sistematik olarak kavramaları
+gereken dört yönü aşağıdaki gibi ifade etmektedir.
+
+Dijital dönüşüm, dijital teknolojinin tetiklediği sistemik bir değişimdir.
+Dijital dönüşümün ana görevi değer sistemlerinin yeniden yapılandırılması ve
+inovasyonudur.
+Dijital dönüşümün temel yolu yeni kinetik enerji oluşturma, sürekli olarak yeni değer
+yaratma ve sürdürülebilir kalkınmaya ulaşma yeteneğidir.
+Dijital dönüşümün ana bileşenleri teknoloji, insanlar ve işletmenin yapısını uygun
+stratejilerdir.
+
+Bu sebeple dönüşüm sürecinde bir işletme etkili bir sistem oluşturabilmek için net bir stratejiye
+(yol), doğru yönteme (teknoloji) ve uygun yeteneğe ihtiyaç duymaktadır. Dolayısıyla başarılı
+işletmeler dijital dönüşüm için doğru strateji, kültür ve etkin liderlik potansiyelinden
+yararlanmaktadır. Dünya Ekonomi Formunun 2016 yılında yayınladığı raporda işletmelerin
+dijital girişim haline gelmek için yeniden tanımlamaları gereken üç temel alan vurgulanmaktadır
+(Boskovic vd. 2019).
+
+dijital iş modelleri (şirketlerin yapması gerekenler)
+dijital çalışma modelleri (bunu nasıl yapabilirler)
+ve dijital yetenek ve beceriler (başarılı olmak için birlikte çalışmaları gerekenler).
+
+Dijital tabanlı başarılı bir yönetime ve sürece motive olmuş çalışanlara sahip işletmeler değişim
+konusunda kararlılık gösterir, müşteri ihtiyaç ve beklentilerindeki değişimlere de odaklanırlar.
+İş modelinin dönüşümü dijital iş değişikliği, yeni bir dijital iş ve dijital küreselleşme ile
+mümkündür. Bu süreçler mevcut ürün ve hizmetlere dijital içeriklerin eklenmesi ve yeni dijital
+çözümlerin tanıtılmasıyla gerçekleşmektedir (Kane vd. 2015). Ancak Parviainen vd. (2017)
+birçok işletmenin dijital dönüşüm potansiyelini göremediğini veya dijital çabaların maksimum
+faydasını yakalayabilmek için alışkanlıklarında ve çalışma yöntemlerinde yeterli organizasyonel
+değişiklik yapmakta zorlandığını vurgulamaktadır. Bu sebepten dolayı şirket düzeyinde bir çok
+geleneksel işletme yenilikçi hızla büyüyen dijital girişimciler tarafından geride bırakılmış ve
+bunun sonucunda zarar görmüştür. Örneğin Alibaba ve Amazon gibi çevrimiçi perakendecilerin
+hızla büyümesi, Toys 'R'Us, Claire's ve RadioShack gibi birkaç eski geleneksel perakende devini
+güçlü bir şekilde etkilemiş ve iflaslarına sebep olmuştur (Verhoef vd., 2021). Bunun tam aksine
+dijital dönüşüm stratejilerini uygulamış ve günümüz hiper rekabetçi pazarlarında başarılı olmuş
+dünya devi şirketler de vardır. Örneğin;
+"The New York Times" basılı medyanın dijitale yenik düşmesinden dolayı satışlarında
+büyük kayıplara uğramış ancak dijitali kucaklayarak bu süreçte var olma savaşı
+vermiştir. Dijital baskılara odaklanan ve dijital dönüşüm sürecinde yönetimsel
+uygulamalarını tamamen değiştiren The New York Times, yıllardır okuyucularının
+güvendiği yüksek kaliteli gazetecilik ve içeriklerini çevrimiçi olarak sunmaya devam
+etmektedir (Lozic, 2019).
+
+“Walmart” da New York Times gibi benzer bir sorunla karşılaşmıştır. New York Times
+dünyanın en büyük gazete yayıncılarından biri iken Walmart dünyanın en büyük
+perakende zinciridir. İnternet üzerinden mal satışının başlamasıyla birlikte kendi
+satışlarını organize etmek ve satın alma alışkanlığının değişmesi nedeniyle kaybedecek
+alıcıların bir kısmını elinde tutmak zorunda kalmıştır. Walmart, tüketicilerin işlerini
+kolaylaştırmak için çevrimiçi iade politikalarını değiştirmiş, en düşük fiyatları sunarak ve
+çevrimiçi sipariş vermek için üyeliğe ihtiyaç olmadan satış yapmakta Amazon'la
+mücadele etmektedir (Lozic, 2019).
+
+“Disney” tüm eğlence parklarını özel sensörlerle dijitalleştirmiştir (Lozic, 2019).
+
+“Deloitte” müşteri tabanını dijital dönüşüm yolculuklarında desteklemek için tüm
+teknik, dijital ve yaratıcı yetkinliklerin bir araya geldiği bir yetkinlik merkezi olan
+Deloitte Digital Today'i kurarak kendilerini yenilemiştir (Lozic, 2019).
+
+“GE (General Electric)” bakış açısını genişleterek, endüstriyel makinelerin dijital olarak
+izlenmesine ve optimize edilmesine olanak tanıyan bir Nesnelerin İnterneti platformu
+olan Predix platformunu piyasaya sürmeyi başarmıştır (Lozic, 2019).
+
+“NIKE” spor giyim ve ayakkabı sektörünün öncülerinden olan NIKE, uygun ayakkabı
+modelini seçmeye yardımcı olan mobil uygulama ile markalarını yenilemişlerdir. Şirketin
+diğer önemli bir projeside en aktif sadakat programı üyelerini ödüllendiren NIKE+
+programıdır (Yayalar, 2021).
+
+“İKEA” dijital dönüşümü başarılı şekilde uygulayan geleneksel organizasyonlara örnek
+İsviçre mobilya şirketidir. IKEA müşterilerinin evlerinde mobilyaları sanal olarak
+denemelerine izin veren bir AR uygulaması geliştirmiştir (Yayalar, 2021).
+
+Alkhamery vd. (2020) dijital çağda birçok işletmenin başarısızlığının strateji, operasyon, kaynak
+ve iş süreçlerini sürekli değişen çevre ile entegresini sağlayacak uygun liderlik yeteneği
+eksikliğinden kaynaklandığını ifade etmektedir. Feliciano-Cestero vd. (2023) bir işletmenin
+dijital dönüşümü başarıp başaramayacağını kolaylaştıran insan ve insan dışı bileşenleri “bilgi,
+liderlik, dijital hizmet ve teknoloji” olmak üzere dört ana faktör gruba ayırmaktadır. Bilgi faktörü
+çalışanların ve müşterilerin algılarını ve örgün ve yaygın eğitimlerini, liderlik faktörü iş modeli
+yeniliğini, değişim yeteneğini ve değişimin uygulanmasını, dijital hizmet etme faktörleri altyapı
+erişimini, hizmet fırsatlarını ve akıllı özerk ekosistemleri ve son olarak teknolojik faktörler akıllı
+çözüm entegrasyonunu, otonom ürünleri, teknolojik yenilikleri ve değer yaratmayı içermektedir.
+Sebastian vd., (2017) ve Dong, (2023) ise başarılı dijital dönüşümün kapsamlı ve iyi planlanmış
+bir yaklaşım gerektirdiğini ve bu dönüşümün faydalarını en üst düzeye çıkarmak için
+işletmelerin Tablo 3 de yer alan en iyi uygulamaları takip etmesi gerektğini ileri sürmüştür.
+Tablo 3: Başarılı bir dijital dönüşümün gerçekleştirebilmesi için gereken unsurlar
+Sebastian vd., (2017)
+SMACIT (Sosyal, mobil, analitik, bulut ve
+nesnelerin interneti)’den ilham alarak değer
+ifadesini tanımlayan dijital bir strateji
+Operasyonel bir omurga
+Hızlı inovasyon sunan ve yeni pazar
+fırsatlarına yanıt vermeyi sağlayan dijital
+hizmetler platformlar
+
+Dong, (2023)
+• Net bir dijital strateji ve planın oluşturulması
+• Sürdürülebilir liderlik ve desteğin sağlanması
+• Dijital kültürün teşvik edilmesi
+• Veri kalitesi ve güvenliğinin sağlanması
+• Sürekli olarak iyileştirme ve optimizasyonun
+yapılması
+
+Dijital dönüşüm çoğunlukla değer zincirinin operasyonel aşaması olan üretimde
+uygulanmaktadır. Aynı zamanda tedarik zinciri, pazarlama, Ar-Ge ve satış sonrası hizmetler
+üzerinde de önemli bir etkiye sahiptir. Dijital dönüşümü, bir organizasyonun tüm
+operasyonlarına dijital teknolojilerin entegrasyonu olarak özetleyebiliriz. Bu durum
+organizasyonun nasıl işletildiği ve müşterilerine nasıl değer kattığı konusunda altyapı
+değişikliklerine de yol açmaktadır. Satış ve üretimdeki artışlar, değer yaratmadaki yenilikler ve
+müşterilerle yeni iletişim biçimleri başarılı bir dijital dönüşümün kazanımlarıdır (Matt vd.,
+2015). Ayrıca dijital dönüşüm makine öğrenimi ve analitik gibi teknolojiler getirerek
+işletmelerin organizasyonel çözümleri için sonsuz fırsatlar ve artan dahili verimlilik
+sağlamaktadır (Heavin ve Power, 2018). Dolayısyla dijitalleşmiş iş dünyasına doğru ilerleyen
+işletmelerin kurumsal yapıları, stratejileri, BT mimarilerini, yöntem ve iş modellerini etkileyen
+devasa bir sosyo-teknik dönüşümden geçmeleri gerekecektir.
+5.1. Dijital Dönüşümün Olumlu ve Olumsuz Etkileri
+İşletme literatüründe dijital dönüşüm kavramı, dijitalleşmenin ve ileri teknolojilerin insan hayatı
+ve özellikle işletme faaliyetleri üzerindeki yıkıcı ve dönüştürücü etkilerini vurgulamak için
+kullanılmıştır (Zhai vd. 2022). Bu bağlamda Warner ve Wäger (2019) dijital dönüşüm teriminin
+sadece yüksek teknoloji ve yenilikçi şirketlere özgü olmadığını, her büyüklükte ve herhangi bir
+sektörde faaliyet gösteren işletmeleri de kapsadığını savunmuştur. Ulusal sınırlar içinde veya
+uluslararası pazarlarda yeni fırsatları keşfetmek ve bunlardan yararlanmak için ileri
+teknolojilere ihtiyaç duyan KOBİ’ler buna en iyi örnektir (Zhang vd. 2022). Teknolojinin
+uygulanması yoluyla kuruluş içinde değişimi yönlendiren bir süreç olan dijital dönüşüm,
+günümüzün rekabet ortamında giderek daha önemli hale gelmiştir. Dijital dönüşüm
+girişimlerinin başarısına veya başarısızlığına katkıda bulunan faktörleri anlamakta önemlidir
+(Dong, 2023). Bu konuda Kaur ve Sood,(2017), dijital dönüşümün nesnelerin interneti (IoT)
+mimarisi ile enerji verimliliği iyileştirmeleri yaparak bir firmanın performansını artırabileceğini
+öne sürmüştür. Gebayew vd., (2018) dijital dönüşümün işletmelerin organizasyon performansı,
+operasyonel verimliliği, müşteri deneyimi, dijital ve fiziksel iş kombinasyonunu geliştirmelerine
+olanak tanıdığını ifade etmiştir. Nambisan vd. (2019), dijital dönüşümün işletme ve ürün
+geliştirme fırsatları sağladığını, Galindo-Martín vd. (2019) ve Lorenzo vd. (2021) bir işletmenin
+inovasyonunu geliştirebileceğini vurgulamışlardır. Ribeiro-Navarrete vd. (2021) dijital
+dönüşümün hizmet sektöründeki finansal performans üzerindeki etkisini, Singh vd. (2021) ise
+işletme performansı üzerindeki olumlu etkisini sonuçlandırmak için Hintli imalat firmalarından
+oluşan bir örneği incelemiştir. Rital vd. (2021) çalışanların proaktifliğinin, risk almanın,
+yenilikçiliğinin ve organizasyon içindeki ilişkisel sermayesinin bir işletmenin dijital dönüşüm
+stratejisinin başarısını belirlediğini ve son olarak Peng ve Tao, (2022) dijital dönüşümünün
+maliyetleri azaltarak, verimliliği artırarak ve yeniliği teşvik ederek işletmelerin performansını
+artırabileceğini ifade etmişlerdir.
+Mevcut çalışmaların çoğu dijital dönüşümün işletmeler üzerindeki olumlu etkisine odaklanmış
+olsa da, çok az sayıda çalışma da olumsuz etkilerinden bahsetmektedir. Örneğin, dijitalleşme
+araçlarının etkili bir şekilde çalışabilmesi için çalışanların bu teknolojileri etkin bir şekilde
+kullanabilecek bilgi ve yeteneklere sahip olmaları gerekmektedir (Feliciano-Cestero vd. 2023).
+Ameen vd. (2021) çalışanların çeşitli teknolojileri ele aldıklarında yaş, cinsiyet, konum ve
+teknoloji kullanma deneyimi gibi sosyo-demografik faktörlerle ilişkilendirilebilecek farklılıklar
+olduğunu açıklamıştır. Park vd. (2022) kişisel yenilikçilik, öz saygı, içsel motivasyon ve kullanım
+gönüllülüğü gibi insanla ilgili psikolojik faktörlerin, çalışanların dijital dönüşümde akıllı bilgi
+teknolojisini nasıl kullandıklarını etkileyebileceğini bulmuşlardır. Bahsedilen bu sorunlar
+yöneticiler açısından işletmelerin büyümesine zarar veren bir zorluk teşgil etmektedir. Ayrıca
+dijitalleşmenin etkili bir şekilde işleyebilmesi için çalışanların kendi alanlarındaki ve dünya
+çapındaki en son teknolojik gelişmelerle ilgili olarak sürekli güncellenmesi gerekmektedir ki bu
+da, eğitim ve bilgi alışverişi açısından önemli bir zorluktur (Cassetta vd. 2020; Fiedler vd. 2021).
+Tablo 4: Dijital Dönüşümün Olumlu ve Olumsuz Etkileri
+
+Bireysel Seviye
+
+Dijital Dönüşümün Olumlu Etkisi
+• Bilgi ve iletişim teknolojileri ile
+yöneticilerin
+ortaklık
+değerini
+artırmalarına, yeni iş fırsatlarını
+anlamak
+için
+kültürel
+içgörüleri
+değerlendirmelerine ve daha iyi
+uluslararası
+kararları
+almalarına
+
+Dijital Dönüşümün Olumsuz Etkisi
+• Çalışanların
+BİT
+teknolojilerini
+etkin
+bir
+şekilde
+kullanabilecek
+yetenek, bilgi ve yeteneklere
+sahip olmaması
+• Müşterilerle
+temasa
+yardımcı olur.
+İnternet teknolojileri dijital hizmetler,
+yapay zeka ve e-ticaret, işletmeden
+işletmeye
+(B2B)
+ve
+işletmeden
+tüketiciye (B2C) ilişkileri geliştirir.
+IoT, işletmelere bilgi yeteneklerini
+geliştirme ve iş faaliyetlerine değer
+yaratma konusunda yenilik yapma
+konusunda geniş fırsatlar sunar.
+Dijital
+ekosistemler
+girişimcilik
+fırsatları, iş sürdürülebilirliği, topluluk
+katılımı ve kırsal kalkınma ve çeşitli
+yaratıcı yönetişim sistemleri sağlar.
+Robot teknolojisi firma yöneticilerinin
+süreç hatalarını azaltmalarına ve
+operasyonda katma değerli verimlilik
+elde etmelerine yardımcı olurken, yapay
+zeka
+ise
+müşteri
+deneyimini
+iyileştirebilir.
+
+Uluslararası iş fırsatlarını takip etmeye
+ve ihracatçılarla ithalatçılar arasındaki
+bağlantının hızlı bir şekilde kurulmasına
+yardımcı olur.
+• İşletmeler dijital platformları kullanarak
+yabancı müşterileri ve ortaklıkları
+çekmek için etkileyici e-ticaret ve sosyal
+medya kanalları kurabilirler.
+• Dijital teknolojiler geliştirmeye ve
+yenilikleri
+keşfetmeye
+karar
+verdiklerinde
+bilgi
+avantajları,
+uluslararası
+girişimcilik
+ve
+iş
+sürdürülebilirliği alanlarında fırsatlar
+elde ederler.
+• İnternet teknolojileri bağlantı ve katılım,
+ağ ilişkilerinin geliştirilmesi küresel
+stratejilerin ve rekabet gücünün
+İşletme Seviyesi
+arttırılması ve uluslararası iş ve
+girişimciliğin genişletilmesi için fırsatlar
+sağlar.
+• Dijital platformlar ile küresel pazarların
+kapsamı genişler.
+• Eklemeli üretim teknolojileri veya 3
+boyutlu baskı, firmaları alternatif üretim
+faaliyetlerine, küresel uzmanlaşmaya ve
+küresel değer zinciri dönüşümüne
+yönlendirebilir
+• Dijital hizmetler ağ fırsatları yaratabilir,
+yönetişimi yeniden yapılandırabilir.
+• Bilgi ve iletişim teknolojisi (BİT)
+firmalara veri analizi, iş veya pazar
+dönüşümü, yeni iş fırsatları, gelişmiş
+firma veya pazar performansı ve birlikte
+değer yaratma fırsatı sunar.
+Kaynak: Feliciano-Cestero vd. (2023)’ den uyarlanmıştır.
+
+geçebilecek
+çalışanların
+yeterli düzeyde eğitme sahip
+olmaması
+Yaş, cinsiyet, konum ve
+teknoloji kullanma deneyimi
+gibi
+sosyo-demografik
+faktörlerde farklılıklar olması
+Psikolojik
+faktörler
+ve
+çalışanlara
+ait
+insani
+özelliklerde
+değişkenlik
+olması
+Kişisel yenilikçilik, öz saygı,
+içsel motivasyon ve kullanım
+gönüllülüğü gibi insanla ilgili
+psikolojik
+faktörlerin
+değişkenlik göstermesi
+Üst
+yönetimin
+katılımı,
+çalışanların bu teknolojileri
+kullanmaya teşvik edilmesi ve
+kabulünün
+değişkenlik
+göstermesi
+Yöneticilerin
+en
+son
+teknolojilerin
+potansiyel
+faydalarını anlama konusunda
+eksik kalması
+Dijital
+dönüşümle
+ilgili
+sorunların üstesinden gelmek
+için gereken bilgi ve kaynak
+eksikliği
+Son teknolojileri kullanma
+konusunda personel sayısı ve
+bilgi birikimi eksikliği
+Dijital teknolojilerin entegre
+edilmemesi ile uluslararası
+ticaretin
+yavaşlaması
+ve
+işletme
+performansının
+azalması
+Siber saldırıların ve veri
+ihlallerinin
+rekabet
+edebileceği endişesi olan
+firmalarda siber güvenliği ve
+siber-fiziksel sistemler ile
+ilgili sorunlar
+Sosyal medya platformlarında
+küçük işletmelerin etkileşimi
+takipçiler, firmalar ve ağlar
+arasında kafa karışıklığı ve
+yanlış anlama durumları
+
+SONUÇ
+Bu makalenin amacı, dijital dönüşüme ilişkin akademik araştırmaların mevcut durumunu,
+geçmişten günümüze tarihi gelişim sürecini, yıllar içerisinde ifade edilen tanımları ve işletmeler
+üzerindeki etkilerine yönelik daha kapsamlı bir bakış açısı sunmaktır. Dijital dünyada rekabet
+her yıl artarken işletmelerin sürekli değişen ortamda ayakta kalabilmek için dijital dönüşümün
+gerekliliğini anlamaları gerekmektedir.
+Dijital dönüşüm üzerine yapmış olduğumuz araştırma incelememiz, dijital dönüşümün birçok
+düzeydeki zorluklarının yanı sıra faydalarını da anlamamıza katkıda bulunan zengin bir
+literatürün de altını çizmektedir. Araştırma sorularını yanıtlayarak kavramın ana unsurlarının
+süreçler ve teknolojiler olduğunu ancak dijital dönüşümün yalnızca BT çözümlerinin hayata
+geçirilmesinden ibaret olmadığını da belirtmek gerekmektedir. Bunu “örgütsel değişim”,
+“kültürel dönüşüm” ve “müşteri odaklı yaklaşıma geçiş” olarak daha geniş bir bağlamda
+düşünmeliyiz. Dijital dönüşümün işletmeler ve toplum üzerinde derin ve çok boyutlu bir etkisi
+vardır. Birincisi, işletmelerin iş modellerinde yenilik yapmalarına, üretkenliği ve kaliteyi
+artırmalarına, rekabet güçlerini ve pazar konumlarını geliştirmelerine olanak tanır. İkincisi,
+bilginin paylaşımını ve dolaşımını kolaylaştırır, bilgi silolarını ortadan kaldırır ve toplumsal
+bilgilenmeyi hızlandırarak toplumun verimliliğinin ve kârlılığının artmasına neden olur.
+Üçüncüsü, yeni istihdam fırsatları ve ekonomik büyüme noktaları yaratarak ekonomik ve sosyal
+kalkınmaya yeni bir ivme kazandırır. Özetle dijital dönüşüm, işletmelerin rekabetçi kalabilmesi
+ve toplumun gelecekte sürdürülebilir kalkınmaya ulaşabilmesi için kritik bir stratejidir (Dong,
+2023).
+Dijital teknolojiler (mobil, sosyal, analitik ve bulut bilişim) kuruluşların ve insan faaliyetinin
+çoğu alanını etkilemektedir. İşletmelerin dijital dünyada rekabet edebilmeleri için yeni iş
+modellerini benimseyerek bu teknolojiler ile yeteneklerini entegre etmeleri gerekmektedir.
+Bulgularımız, organizasyonların faaliyet gösterdiği ortamın artan karmaşıklığının altını
+çizmektedir. Dijital teknolojiler daha fazla bilgi, iletişim ve bağlantı olanağı sağladıkça farklı
+aktörlerin dağılmış ağları arasında yeni işbirliği biçimlerine olanak tanımaktadır. Bu yeni
+gerçeklik, organizasyonlarda inovasyon ve performans için muazzam bir potansiyel sunmakta ve
+işletme sınırlarının ötesine geçerek bireyleri, sektörleri ve toplumu etkilemektedir. Dijital
+dönüşüm stratejisi, finansal performansı etkileyen temel faktör olarak tanımlanmaktadır.
+Yapılan araştırmalar, esas olarak işletme düzeyindeki yetenekleri ve ülke düzeyindeki özellikleri
+vurgularken, insanların dijital dönüşümü ne ölçüde etkilediğini açık bir şekilde dikkate
+almamaktadır. Bu nedenle dijitalleşmenin, yeni teknolojinin satın alınmasından ziyade değişim
+yönetimine ve insanın dönüşüme tepkisine bağlı olduğunu söyleyebiliriz. Dolayısıyla, işletmeleri
+başarılı bir şekilde dijitalleşmeye yönlendirebilecek 'stratejik dönüşüm' yöneticilerine önemli
+bir rol düşmektedir. KOBİ’ler özelinden bakıldığında genellikle dijital dönüşüm düşüncesinin
+eksikliği ve zayıf bir dijital temel, sürecin önündeki büyük engellerdir. Çalışanların dijital
+becerileri, KOBİ'lerin dijital dönüşümünün önündeki bir diğer önemli engeldir. Aynı zamanda
+KOBİ'lerin sınırlı sermayesi çeşitli engellerle birleştiğinde, dijital dönüşümün yolunu
+zorlaştırmaktadır (Teng vd. 2022). Ayrıca Endüstri 4.0, dijital ortama taşınan yeni istihdamların
+sayısını da artırmaktadır. Ancak, artan otomasyon seviyeleri nedeniyle iş fırsatlarını da
+azaltmaktadır. Belirli vaka çalışmalarına dayanan literatür, esas olarak dijital dönüşümün
+potansiyellerine ve faydalarına odaklanıyor gibi görünmektedir. Dijital dönüşümün olumsuz
+yönlerine odaklanan çalışmaların eksikliği de vardır. Dijital ekonominin istihdam düzeyleri
+üzerindeki etkisi, farklı sektörler ve ülkeler arasındaki rekabeti gibi olumsuz etkilerini anlamak
+için de daha fazla ampirik araştırmaya ihtiyaç vardır. Gelecekte çalışmaların çoğunluğu, dijital
+dönüşümün işletmeler üzerindeki olası olumsuz etkilerini araştırmaya ve önlemeye yönelik
+olmalıdır. Ayrıca pandemik hastalıklar (örneğin, COVİD-19), doğal afetler (örneğin, kasırgalar
+veya depremler), terör saldırıları veya siyasi olaylar gibi büyük dışsal şokların öncesinde,
+sırasında ve sonrasında dijital dönüşümün işletmeler üzerindeki etkisi araştırmalı ve istikrarın
+sağlanmasına ilişkin teorilere odaklanılmalıdır. Bu tür ağır koşullarda, dijital dönüşümün
+potansiyel sınırlamalarını (örneğin elektrik kesintisi) ve tehlikelerini (örneğin siber güvenlik)
+anlamak ve işletmeler için dayanıklılık stratejileri geliştirmek hayati önem taşıyacaktır
+(Feliciano-Cestero,vd. 2023).
+Gelecekteki çalışmalarda, işletmelerde dijital dönüşümü engelleyen veya izin veren çalışan ve
+kişilik özelliklerinin rolü araştırmalıdır. İşletme çalışanlarının birden fazla teknolojiyle nasıl
+etkileşime girdikleri ve dönüşüm stratejilerine nasıl dahil olduklarını anlamak için daha fazla
+araştırmaya ihtiyaç vardır. Buna ek olarak gelecekteki çalışmalar, örneğin Y kuşağı ve Z kuşağı
+gibi farklı kuşak çalışan özellikleri ile işletmelerin dijitalleşmesini etkileyebilecek psikolojik
+özellikler arasındaki benzerlik ve farklılıklar araştırılmalıdır. Ayrıca, bu iki kuşak çalışanların
+ihtiyaçları, yönetim ve liderlik tarzı üzerindeki etkileri de detaylı incelenmelidir. Gelişmiş ve
+gelişmekte olan ülkelerde faaliyet gösteren uluslararası işletmelerde dijital dönüşümle ilgili
+yönetim ve liderlik zorluklarını belirlemek, çalışanların performansını ve çeşitli teknolojilerle
+nasıl etkileşime girdiklerini etkileyebilecek dijital uçurum ve kültürel farklılıkları göz önünde
+bulundurmak da gelecekteki araştırmaların bir parçası olmalıdır. (Ameen vd. 2022).
+Dijital dönüşüme olan ilginin artmasına rağmen, bu alanda araştırma yapmanın zorlukları ve
+sınırlamaları vardır. En büyük zorluklardan biri verinin elde edilmesi ve kalitesinin
+sağlanmasıdır. Ek olarak, dijital dönüşüm sürekli izleme ve değerlendirme gerektiren uzun
+vadeli bir süreç olmasından mevcut araştırmalar bundan yoksundur, dolayısyla sürecin uzun
+vadeli etkisinin tahmin edilmesini ve doğru bir şekilde değerlendirilmesini zorlaştırmaktadır
+(Dong, 2023).
+Sonuç olarak, işletmelerin dijital dönüşüm sürecini değerlendirme ve gelecekteki hedeflerini
+doğru belirleme konusunda bir yol haritası belirlemesi gerekmektedir. Araştırma bulguları
+neticesinde gelecek çalışmalara yönelik olarak aşağıdaki temel öneriler geliştirilmiştir:
+•
+
+İşletmelerin kalıcı ve sürdürülebilir olması için örgütsel hedeflerine ve amaçlarına uygun
+kapsamlı dijital dönüşüm stratejileri belirlemeleri
+
+•
+
+Yönetici ve karar vericilerin dijitalleşme fırsatlarını anlama ve uygulayabilmeleri için
+dijital okuryazarlıklarının artırılması
+
+•
+
+Endüstri 4.0 çağında dijital düşünebilen ve dijital teknolojileri süreçlerine uyarlayabilen
+liderlik yaklaşımlarının geliştirilmesi
+
+•
+
+Dijital dönüşüm hakkında daha derin içgörüler ve insan sermayesinin rolü hakkında
+ayrıntılı sonuçlar elde etmek için daha fazla ampirik araştırma yapılması
+
+•
+
+Gelecekteki çalışmaların dijital dönüşüm sürecinde siber güvenlik, gizlilik ve veri koruma
+konusuna odaklanması gerekmektedir.
